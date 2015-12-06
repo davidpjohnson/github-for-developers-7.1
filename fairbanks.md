@@ -3,3 +3,5 @@
 Fairbanks Alaska
 
 yes its cold here
+
+yes its dark in the winter
